@@ -11,7 +11,7 @@ title                    : "Xia Jiang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/managerjiang/Xia-Jiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://managerjiang.github.io/Xia-Jiang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "managerjiang/Xia-Jiang.github.io"
 
