@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I'm a postdoc from [School of SYEEM], [Chinese University of Hong Kong]. My research interest includes distributed optimization, minimax optimization and federated learning.
+I was very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of EEE](https://cs.pku.edu.cn/), XX University. I was advised by [Prof. XX](https://XXX/) from [School of Automation](https://cs.pku.edu.cn/), Beijing Institute of Technology.
 
 You can find my CV here: [Xia Jiang's Curriculum Vitae](../assets/XiaJiang-CV.pdf).
 
