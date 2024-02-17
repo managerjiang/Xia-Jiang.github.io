@@ -11,7 +11,7 @@ I'm a postdoc from [School of EECS](https://eecs.pku.edu.cn/), [Peking Universit
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Xia Jiang's Curriculum Vitae](../assets/Xia Jiang-CV.pdf).
+You can find my CV here: [Xia Jiang's Curriculum Vitae](../assets/XiaJiang-CV.pdf).
 
 [Email](mailto:xiajiang@cuhk.edu.hk) / [Github](https://github.com/managerjiang) 
 
