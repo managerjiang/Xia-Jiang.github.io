@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+title: "Distributed synchronous and asynchronous algorithms for semidefinite programming with diagonal constraints (Regular Paper)"
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'X. Jiang, X. Zeng, J. Sun and J. Chen. Distributed synchronous and asynchronous algorithms for semidefinite programming with diagonal constraints (Regular Paper). IEEE Transactions on Automatic Control, vol. 68, no. 2, pp. 1007-1022, Feb. 2023, doi: 10.1109/TAC.2022.3170529.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
