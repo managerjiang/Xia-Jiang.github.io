@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Publication"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 1. X. Jiang, X. Zeng, J. Sun and J. Chen. Distributed synchronous and asynchronous algorithms for semidefinite programming with diagonal constraints (Regular Paper). IEEE Transactions on Automatic Control, vol. 68, no. 2, pp. 1007-1022, Feb. 2023, doi: 10.1109/TAC.2022.3170529.
 2. X. Jiang, X. Zeng, J. Sun, J. Chen and L. Xie. Distributed stochastic proximal algorithm with random reshuffling for nonsmooth finite-sum optimization. IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 3, pp. 4082-4096, March 2024, doi: 10.1109/TNNLS.2022.3201711.
 3. X. Jiang, X. Zeng, J. Sun and J. Chen. Distributed stochastic gradient tracking algorithm with variance reduction for non-convex optimization. IEEE Transactions on Neural Networks and Learning Systems, vol. 34, no. 9, pp. 5310-5321, Sept. 2023, doi: 10.1109/TNNLS.2022.3170944.
