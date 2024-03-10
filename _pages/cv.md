@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Beijing Institute of Technology, 2017-2023
+* Visiting Ph.D in Nanyang Technological University, 2021-2022
 * B.S. in Shandong University, 2013-3017
 
 Work experience
