@@ -17,5 +17,7 @@ Education
 
 Work experience
 ======
-* Research Associate in Chinese University of Hong Kong, 2023-present
+* Research Associate at the Chinese University of Hong Kong, 2023.10-2025.4
+* Postdoctoral Fellow at City University of Hong Kong, 2025.4-2025.10
+* Postdoctoral Fellow at Nanyang Technological University, 2025.10-present
 
